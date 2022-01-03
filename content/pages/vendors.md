@@ -1,5 +1,5 @@
 ---
-title: 'Vendors'
+title: 'Vendors|Supplies'
 date: 2021-09-15T17:52:43-05:00
 description: 'A list of recommended blacksmithing suppliers'
 tags:
